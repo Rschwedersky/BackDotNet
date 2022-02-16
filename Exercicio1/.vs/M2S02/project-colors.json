@@ -5,7 +5,12 @@
       "ProjectGuid": "c2803d2e-6e0f-4986-a6b4-fb2cc87a1def",
       "DisplayName": "Exercicio1",
       "ColorIndex": 0
+    },
+    "d483a00a-4ea0-471e-9c03-0cda124cafb9": {
+      "ProjectGuid": "d483a00a-4ea0-471e-9c03-0cda124cafb9",
+      "DisplayName": "Exercicio2",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
