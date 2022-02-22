@@ -10,7 +10,22 @@
       "ProjectGuid": "d483a00a-4ea0-471e-9c03-0cda124cafb9",
       "DisplayName": "Exercicio2",
       "ColorIndex": 1
+    },
+    "10b2cf73-5e7c-4885-a3b6-85f555040491": {
+      "ProjectGuid": "10b2cf73-5e7c-4885-a3b6-85f555040491",
+      "DisplayName": "Exercicio3",
+      "ColorIndex": 2
+    },
+    "6dcc034e-2c30-47ad-ab47-4fef6f687b89": {
+      "ProjectGuid": "6dcc034e-2c30-47ad-ab47-4fef6f687b89",
+      "DisplayName": "Exercicio4",
+      "ColorIndex": 3
+    },
+    "de3a69d1-be18-4db1-b45c-311799c6b222": {
+      "ProjectGuid": "de3a69d1-be18-4db1-b45c-311799c6b222",
+      "DisplayName": "Aula2",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }
