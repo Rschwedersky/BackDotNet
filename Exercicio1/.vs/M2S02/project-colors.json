@@ -25,7 +25,17 @@
       "ProjectGuid": "de3a69d1-be18-4db1-b45c-311799c6b222",
       "DisplayName": "Aula2",
       "ColorIndex": 4
+    },
+    "93e64086-0996-45ff-9717-595977c5ac9a": {
+      "ProjectGuid": "93e64086-0996-45ff-9717-595977c5ac9a",
+      "DisplayName": "exercicio5",
+      "ColorIndex": 5
+    },
+    "765724ef-8b31-4f7a-bd4f-b42411e65bf8": {
+      "ProjectGuid": "765724ef-8b31-4f7a-bd4f-b42411e65bf8",
+      "DisplayName": "exercicio6",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
