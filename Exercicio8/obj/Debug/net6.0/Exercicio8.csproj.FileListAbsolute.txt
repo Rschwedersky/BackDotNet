@@ -1,0 +1,14 @@
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\bin\Debug\net6.0\Exercicio8.exe
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\bin\Debug\net6.0\Exercicio8.deps.json
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\bin\Debug\net6.0\Exercicio8.runtimeconfig.json
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\bin\Debug\net6.0\Exercicio8.dll
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\bin\Debug\net6.0\ref\Exercicio8.dll
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\bin\Debug\net6.0\Exercicio8.pdb
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\obj\Debug\net6.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\obj\Debug\net6.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\obj\Debug\net6.0\Exercicio8.AssemblyInfo.cs
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\obj\Debug\net6.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\obj\Debug\net6.0\Exercicio8.dll
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\obj\Debug\net6.0\ref\Exercicio8.dll
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\obj\Debug\net6.0\Exercicio8.pdb
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio8\obj\Debug\net6.0\Exercicio8.genruntimeconfig.cache

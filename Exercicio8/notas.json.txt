@@ -1,0 +1,34 @@
+[
+   {
+      "Nome":"rodrigo",
+      "Nota":10
+   },
+   {
+      "Nome":"pedro",
+      "Nota":4
+   },
+   {
+      "Nome":"duda",
+      "Nota":3
+   },
+   {
+      "Nome":"carlos",
+      "Nota":8
+   },
+   {
+      "Nome":"augusto",
+      "Nota":2
+   },
+   {
+      "Nome":"gabriela",
+      "Nota":5
+   },
+   {
+      "Nome":"thais",
+      "Nota":7
+   },
+   {
+      "Nome":"juliana",
+      "Nota":6
+   }
+]
