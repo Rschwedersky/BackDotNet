@@ -1,0 +1,15 @@
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\bin\Debug\net6.0\Exercicio10.exe
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\bin\Debug\net6.0\Exercicio10.deps.json
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\bin\Debug\net6.0\Exercicio10.runtimeconfig.json
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\bin\Debug\net6.0\Exercicio10.dll
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\bin\Debug\net6.0\ref\Exercicio10.dll
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\bin\Debug\net6.0\Exercicio10.pdb
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\obj\Debug\net6.0\Exercicio10.csproj.AssemblyReference.cache
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\obj\Debug\net6.0\Exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\obj\Debug\net6.0\Exercicio10.AssemblyInfoInputs.cache
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\obj\Debug\net6.0\Exercicio10.AssemblyInfo.cs
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\obj\Debug\net6.0\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\obj\Debug\net6.0\Exercicio10.dll
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\obj\Debug\net6.0\ref\Exercicio10.dll
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\obj\Debug\net6.0\Exercicio10.pdb
+C:\Users\camba\source\repos\Rschwedersky\BackDotNet\Exercicio10\obj\Debug\net6.0\Exercicio10.genruntimeconfig.cache
